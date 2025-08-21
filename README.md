@@ -1,6 +1,6 @@
 # Customer Feedback Intelligence Hub
 
-> **🚧 Project Status: Research & Planning Phase**
+> **🚧 Project Status (August 2025): Research & Planning Phase**
 
 This repository is currently in active development planning; in the process of:
 - Researching and finalizing system design concepts
@@ -8,6 +8,7 @@ This repository is currently in active development planning; in the process of:
 - Architecting the full-stack solution
 - Defining technical requirements and specifications
 - Assessing implementation costs, risks, and limitations
+- Timeline estimations
 
 ## 🎯 Project Vision
 
